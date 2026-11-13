@@ -3,7 +3,7 @@ traditional:[
 ["Rice and Grain Staples",[["Jollof Rice",3000],["Fried Rice",3500],["White Rice",2000],["Ofada Rice",4000],["Coconut Rice",4000],["Asun Rice",4000],["Native Rice",3500],["Meat Rice",4000]]],
 ["Swallows",[["Pounded Yam",3000],["Amala",2000],["Mashed Rice",500]]],
 ["Soups",[["Stew",1000],["Efo Riro",1500],["Egusi Soup",1500],["Afang Soup",1500], ["Ogbono Soup",1000], ["Ewedu & Gbegiri Soup",1500]]],
-["Sides / Appetizers / Small Chops",[["Coleslaw",500],["Side Caesar Salad",1000],["Potato Salad",1000],["Peppered Chicken",2500],["Peppered Beef",2000],["Asun",2500],["Suya",1000],["Puff Puff",500],["Meat Pie",500],["Sausage Rolls",700],["Samosa",300],["Egg Roll",400]]]],
+["Sides / Appetizers / Small Chops",[["Coleslaw",500],["Egg",300],["Plantain",700],["Side Caesar Salad",1000],["Potato Salad",1000],["Peppered Chicken",2500],["Peppered Beef",2000],["Chicken Wings",5000],["Asun",2500],["Suya",1000],["Puff Puff",500],["Meat Pie",500],["Sausage Rolls",700],["Samosa",300],["Egg Roll",400],["Pizza",6000],["Burger",6000],["Shawarma",4500]]]],
 continental:[
 ["Pasta and Main Courses",[["Creamy Seafood Alfredo",20000],["Spaghetti Bolognese",9000],["Shredded Beef in Oyster Sauce",10000],["Grilled Salmon",10000]]],
 ["Grills and Platter Favorites",[["Beef Ribs",14000],["Chicken Caesar Salad",12000],["Club Sandwich",7000],["Fish and Chips",10000]]]]};
